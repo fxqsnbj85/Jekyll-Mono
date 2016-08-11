@@ -6,17 +6,20 @@ permalink: /
 
 生态学研究与环境影响评价，具体包括生态系统碳氮循环、大气环境监测（温室气体）、生态系统物质循环与调控（土壤肥力）等方向。累计发表论文10余篇，其中SCI论文8篇、中文核心期刊论文4篇、专利2项、参与专业著作1本。
 
+***
 
 ## 教育
 
 *	中国科学院大学   生态学            博士（硕博连读）       2008.9~2013.6
 *	兰州大学         农林经济管理      学士                   2004.9~2008.6
 
+***
 
 ## 职业经历
 * 江苏实朴环境监测有限公司  实验室负责人、中级工程师   2016.03-现在
 * 中国科学院亚热带农业生态研究所  助理研究员（一级）   2013.7~2015.12
 
+***
 
 ## 科研经历
 *	国家自然科学基金面上项目“亚热带丘陵园艺土壤氧化亚氮排放的时空变异特征研究”（2012.01-2015.12，主要负责人）；
@@ -27,6 +30,8 @@ permalink: /
     **	负责项目的开展和实施过程中的人员协调和任务分配、以及样品的采集、处理、分析以及数据整理工作；
     **	完成项目阶段性的总结工作，参与撰写项目年终总结、进展报告以及学术论文等。
     **	协助并参与指导课题组相关研究方向研究生培养工作。
+
+***
 
 ## 研究成果
 
@@ -55,6 +60,8 @@ permalink: /
 
 *    《茶园生态管理研究与应用》, 肖润林, 徐华勤, 沈程文, 单武雄, 汤宇, 付晓青. 湖南科技出版社. 2014年6月.
 
+***
+
 ## 获奖情况 
 *	2013年度  中国科学院大学 三好学生
 *	2007年度  励志奖学金
@@ -70,39 +77,10 @@ permalink: /
 *	熟练操作：气相色谱仪、土壤碳氮分析仪等实验室常规仪器；
 *	熟悉环境样品（土壤、水、空气等）基本理化性质测定方法。
 
-
-
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
     
     
-## Achievements
 
 
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+## 联系方式
 
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
-
-## Contact me
-
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[fxqsnbj85@163.com](mailto:fxqsnbj85@163.com)
