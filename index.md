@@ -30,6 +30,7 @@ permalink: /
 
 ## 研究成果
 ### 论文发表
+
 *	Fu X Q (first equally), Liu X L, Li Y, Shen J L, Wang Y, Zou G H, Li H, Song L F, Wu J S. Spatial variability of N2O fluxes emitted from a tea-planted red soil during a wet season in subtropical central China. Biogeosciences, 12, 3899–3911, 2015. Impact Factor: 3.98
 *	Liu X L, Fu X Q (first equally), Li Y, Shen J L, Wang Y, Zou G H, Ma Q M, Chen D, Wang C, Xiao R L, Wu J S. Spatio-temporal variability in N2O emissions from a tea-planted soil in subtropical central China. Geoscientific Model Development discuss, 8, 1-45,2015. Impact Factor: 3.65
 *	Chen D, Fu X Q, Wang C, Liu X L, Li H, Shen J L, Wang Y, Li Y, Wu J S. Background Emissions of Nitrous Oxide from a Masson Pine Forest Soil in Subtropical Central China. Pedosphere. 25(2): 263--274, 2015.  
@@ -47,6 +48,7 @@ permalink: /
 
 *	一种茶树的遮光栽培方法. 专利号: ZL201110138756.9 肖润林, 李盛华, 付晓青, 张树楠, 徐娟, 黎星辉. 
 *	一种茶园温室气体氧化亚氮减排的方法. 专利号: 201210450348.1 肖润林, 刘峰, 付晓青, 李勇, 张树楠, 白志辉, 徐圣君.
+*	
 ### 书籍
 
 *    《茶园生态管理研究与应用》, 肖润林, 徐华勤, 沈程文, 单武雄, 汤宇, 付晓青. 湖南科技出版社. 2014年6月.
