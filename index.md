@@ -14,7 +14,7 @@ permalink: /
 
 
 ## 职业经历
-* 
+* 江苏实朴环境监测有限公司  实验室负责人、中级工程师   2016.03-现在
 * 中国科学院亚热带农业生态研究所  助理研究员（一级）   2013.7~2015.12
 
 
@@ -29,6 +29,7 @@ permalink: /
     **	协助并参与指导课题组相关研究方向研究生培养工作。
 
 ## 研究成果
+
 ### 论文发表
 
 *	Fu X Q (first equally), Liu X L, Li Y, Shen J L, Wang Y, Zou G H, Li H, Song L F, Wu J S. Spatial variability of N2O fluxes emitted from a tea-planted red soil during a wet season in subtropical central China. Biogeosciences, 12, 3899–3911, 2015. Impact Factor: 3.98
