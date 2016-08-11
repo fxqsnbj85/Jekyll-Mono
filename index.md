@@ -38,7 +38,7 @@ permalink: /
 
 ### 论文发表
 
-1.	**Fu X Q** (first equally), Liu X L, Li Y, Shen J L, Wang Y, Zou G H, Li H, Song L F, Wu J S. Wet-season spatial variability in N2O emissions from a tea field in subtropical central China. Biogeosciences, 12, 3899–3911, 2015. Impact Factor: 3.98
+1.	**Fu X Q** (first equally), Liu X L, Li Y, Shen J L, Wang Y, Zou G H, Li H, Song L F, Wu J S. Wet-season spatial variability in N2O emissions from a tea field in subtropical central China. [Biogeosciences](http://www.biogeosciences.net/12/3899/2015/bg-12-3899-2015.html), 12, 3899–3911, 2015. Impact Factor: 3.98
 1.	Liu X L, **Fu X Q (first equally)**, Li Y, Shen J L, Wang Y, Zou G H, Ma Q M, Chen D, Wang C, Xiao R L, Wu J S. Spatio-temporal variability in N2O emissions from a tea-planted soil in subtropical central China. Geoscientific Model Development discuss, 8, 1-45,2015. Impact Factor: 3.65
 1.	Chen D, **Fu X Q**, Wang C, Liu X L, Li H, Shen J L, Wang Y, Li Y, Wu J S. Background Emissions of Nitrous Oxide from a Masson Pine Forest Soil in Subtropical Central China. Pedosphere. 25(2): 263--274, 2015.  
 1.	Xu S J, **Fu X Q**, Ma S L, Bai Z H, Xiao R L, Li Y, Zhuang G Q. Mitigating nitrous oxide emissions from tea field soil using bioaugmentation with a Trichoderma viride biofertilizer. The Scientific World Journal. doi:10.1155/2014/793752, 2014.
