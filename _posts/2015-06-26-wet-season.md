@@ -4,7 +4,7 @@ title: N20排放论文发表于Biogeosciences期刊
 author: 付晓青
 ---
 
-论文Wet-season spatial variability in N2O emissions from a tea field in subtropical central China 发表于Biogeosciences期刊
+论文Wet-season spatial variability in N2O emissions from a tea field in subtropical central China 发表于[Biogeosciences期刊](http://www.biogeosciences.net/12/3899/2015/bg-12-3899-2015.html)
 
 
 ## Abstract
