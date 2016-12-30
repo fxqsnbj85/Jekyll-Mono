@@ -17,8 +17,8 @@ permalink: /
 ***
 
 ## 职业经历
-* 江苏实朴环境检测有限公司  实验室负责人、中级工程师   2016.03-现在
-* 中国科学院亚热带农业生态研究所  助理研究员（一级）   2013.7~2015.12
+* 江苏实朴环境检测有限公司   实验室负责人、中级工程师   2016.03-现在
+* 中国科学院亚热带农业生态研究所   助理研究员（一级）   2013.7~2015.12
 
 ***
 
@@ -37,7 +37,7 @@ permalink: /
 
 ### 论文发表
 
-1.	**Fu X Q** (first equally), Liu X L, Li Y, Shen J L, Wang Y, Zou G H, Li H, Song L F, Wu J S. Wet-season spatial variability in N2O emissions from a tea field in subtropical central China. [Biogeosciences](http://www.biogeosciences.net/12/3899/2015/bg-12-3899-2015.html), 12, 3899–3911, 2015. Impact Factor: 3.98
+1.	**Fu X Q**, Liu X L, Li Y, Shen J L, Wang Y, Zou G H, Li H, Song L F, Wu J S. Wet-season spatial variability in N2O emissions from a tea field in subtropical central China. [Biogeosciences](http://www.biogeosciences.net/12/3899/2015/bg-12-3899-2015.html), 12, 3899–3911, 2015. Impact Factor: 3.98
 1.	Liu X L, **Fu X Q (first equally)**, Li Y, Shen J L, Wang Y, Zou G H, Ma Q M, Chen D, Wang C, Xiao R L, Wu J S. Spatio-temporal variability in N2O emissions from a tea-planted soil in subtropical central China. Geoscientific Model Development discuss, 8, 1-45,2015. Impact Factor: 3.65
 1.	Chen D, **Fu X Q**, Wang C, Liu X L, Li H, Shen J L, Wang Y, Li Y, Wu J S. Background Emissions of Nitrous Oxide from a Masson Pine Forest Soil in Subtropical Central China. Pedosphere. 25(2): 263--274, 2015.  
 1.	Xu S J, **Fu X Q**, Ma S L, Bai Z H, Xiao R L, Li Y, Zhuang G Q. Mitigating nitrous oxide emissions from tea field soil using bioaugmentation with a Trichoderma viride biofertilizer. The Scientific World Journal. doi:10.1155/2014/793752, 2014.
@@ -52,7 +52,7 @@ permalink: /
 
 ### 专利
 
-*	一种茶树的遮光栽培方法. 专利号: ZL201110138756.9 肖润林, 李盛华, **付晓青**, 张树楠, 徐娟, 黎星辉. 
+*	一种茶树的遮光栽培方法. 专利号: ZL201110138756.9 肖润林, 李盛华, **付晓青**, 张树楠, 徐娟, 黎星辉.
 *	一种茶园温室气体氧化亚氮减排的方法. 专利号: 201210450348.1 肖润林, 刘峰, **付晓青**, 李勇, 张树楠, 白志辉, 徐圣君.
 
 
@@ -62,13 +62,13 @@ permalink: /
 
 ***
 
-## 获奖情况 
+## 获奖情况
 *	2013年度  中国科学院大学 三好学生
 *	2007年度  励志奖学金
 *	2006年度  国家奖学金
 *	2006年度  兰州大学一等奖学金
 *	2005年度  兰州大学二等奖学金
-                              
+
 ## 专业技能
 
 *	大学英语四级(CET4) 	成绩：合格
@@ -77,10 +77,6 @@ permalink: /
 *	熟练操作：**气相色谱仪**、**土壤碳氮分析仪**等实验室常规仪器；
 *	熟悉环境样品（土壤、水、空气等）基本理化性质测定方法。
 
-    
-    
-
-
 ## 联系方式
 
-[fxqsnbj85@163.com](mailto:fxqsnbj85@163.com)
+> [fxqsnbj85@163.com](mailto:fxqsnbj85@163.com)
