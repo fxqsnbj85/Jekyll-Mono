@@ -37,8 +37,9 @@ permalink: /
 
 ### 论文发表
 
-1. Li, Y., Zheng, X., **Fu, X Q**, & Wu, Y. (2016). Is green tea still ‘green’?. 2016, 3(2). DOI: 10.1002/geo2.21
-1. Wu, Y., Li, Y., **Fu, X Q**, Liu, X., Shen, J., & Wang, Y., et al. (2016). Three-dimensional spatial variability in soil microorganisms of nitrification and denitrification at a row-transect scale in a tea field. Soil Biology & Biochemistry, 103, 452-463. DOI: 10.1016/j.soilbio.2016.09.013
+1. Chen D, Li, Y., Wang C, **Fu X Q**,et al. Measurement and modeling of nitrous and nitric oxide emissions from a tea field in subtropical central China. Nutrient Cycling in Agroecosystems. 2017. 1-17. DOI: 10.1007/s10705-017-9826-1 Impact Factor: 1.490
+1. Li, Y., Zheng, X., **Fu, X Q**, & Wu, Y. (2016). Is green tea still ‘green’?. Geo: Geography and Environment. 2016, 3(2). DOI: 10.1002/geo2.21
+1. Wu, Y., Li, Y., **Fu, X Q**, Liu, X., Shen, J., & Wang, Y., et al. (2016). Three-dimensional spatial variability in soil microorganisms of nitrification and denitrification at a row-transect scale in a tea field. Soil Biology & Biochemistry, 103, 452-463. DOI: 10.1016/j.soilbio.2016.09.013 Impact Factor: 4.152 
 1.	**Fu X Q**, Liu X L, Li Y, Shen J L, Wang Y, Zou G H, Li H, Song L F, Wu J S. Wet-season spatial variability in N2O emissions from a tea field in subtropical central China. [Biogeosciences](http://www.biogeosciences.net/12/3899/2015/bg-12-3899-2015.html), 12, 3899–3911, 2015. Impact Factor: 3.98
 1.	Liu X L, **Fu X Q (first equally)**, Li Y, Shen J L, Wang Y, Zou G H, Ma Q M, Chen D, Wang C, Xiao R L, Wu J S. Spatio-temporal variability in N2O emissions from a tea-planted soil in subtropical central China. Geoscientific Model Development discuss, 8, 1-45,2015. Impact Factor: 3.65
 1.	Chen D, **Fu X Q**, Wang C, Liu X L, Li H, Shen J L, Wang Y, Li Y, Wu J S. Background Emissions of Nitrous Oxide from a Masson Pine Forest Soil in Subtropical Central China. Pedosphere. 25(2): 263--274, 2015.  
