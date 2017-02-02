@@ -37,7 +37,6 @@ permalink: /
 
 ### 论文发表
 
-### 论文发表
 1. Li, Y., Zheng, X., **Fu, X Q**, & Wu, Y. (2016). Is green tea still ‘green’?. 2016, 3(2). DOI: 10.1002/geo2.21
 1. Wu, Y., Li, Y., **Fu, X Q**, Liu, X., Shen, J., & Wang, Y., et al. (2016). Three-dimensional spatial variability in soil microorganisms of nitrification and denitrification at a row-transect scale in a tea field. Soil Biology & Biochemistry, 103, 452-463. DOI: 10.1016/j.soilbio.2016.09.013
 1.	**Fu X Q**, Liu X L, Li Y, Shen J L, Wang Y, Zou G H, Li H, Song L F, Wu J S. Wet-season spatial variability in N2O emissions from a tea field in subtropical central China. [Biogeosciences](http://www.biogeosciences.net/12/3899/2015/bg-12-3899-2015.html), 12, 3899–3911, 2015. Impact Factor: 3.98
