@@ -8,7 +8,7 @@ name: 付晓青
 # Short bio or description (displayed in the header)
 description: The Sense of Wonder
 
-# 大自然的每一个领域都是美妙绝伦的。——亚里士多德 
+# 大自然的每一个领域都是美妙绝伦的。——亚里士多德
 
 
 #
@@ -54,6 +54,13 @@ baseurl: ""
 #
 
 permalink: /:title/
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
